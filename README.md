@@ -1,6 +1,6 @@
 ### Hi there 👋
-### How are you?
-### Learning about theoretical chemistry <3 
+### How are you? 🤔
+### Learning about theoretical chemistry ❤️‍🔥
 <!--
 **EduardoLopezLozano/EduardoLopezLozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

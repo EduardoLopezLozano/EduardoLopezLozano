@@ -7,6 +7,6 @@
 + I have undergraduate degrees in Chemistry from Universidad de Guanajuato (UGto) 
 
 <p align="center">  
-<img src="https://plus.unsplash.com/premium_photo-1687349539712-421d9174ef5d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1957&q=80"
+<img src="https://images.squarespace-cdn.com/content/v1/5b72117a55b02c64155d6f34/1561862767947-KLJPUKFB6LU5HGO5B0V9/Hello2.gif"
 width="300"></center>  
 </p>  
